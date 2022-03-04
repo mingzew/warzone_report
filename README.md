@@ -9,6 +9,6 @@ https://user-images.githubusercontent.com/5702344/156827949-ea63425e-f671-4f82-8
 
 ## Getting Started
 
-You'll need to have your google-services.json in your /android/app/ to hook it up to firebase
-Change <<GOOGLE API KEY>> in AndroidManifest.xml
+- You'll need to have your google-services.json in your /android/app/ to hook it up to firebase
+- Change `<<GOOGLE API KEY>>` in AndroidManifest.xml
 
