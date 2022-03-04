@@ -1,16 +1,13 @@
 # warzone_report
 
-A new Flutter project.
+A project that let users view and report active war zones in real time
+
+## How does it work?
+
+https://user-images.githubusercontent.com/5702344/156827949-ea63425e-f671-4f82-8eb1-9971613deb13.mp4
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You'll need to have your google-services.json in your /android/app/ to hook it up to firebase
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
